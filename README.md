@@ -8,7 +8,6 @@ This project is part of the **DataCamp Guided Project**: [Cleaning Bank Marketin
 1. [Description](#description)
 2. [Project Instructions](#project-instructions)
 3. [Features](#features)
-4. [Acknowledgments](#acknowledgments)
 
 ---
 
